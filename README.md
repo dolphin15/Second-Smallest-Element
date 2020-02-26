@@ -1,0 +1,2 @@
+# Second-Smallest-Element
+Write a C program that that asks positive numbers from the user. The sentinel value is -1 for this program (i.e when the user enters -1 the data entry job finishes). When the user enters -1 and press “Enter” key, your program should print the value of the second smallest element of the sequence. For example if the sequence is {17, 2, 37, 5, 13, 12}, your program has to print the number 5 to the screen.
